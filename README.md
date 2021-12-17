@@ -1,5 +1,5 @@
-# incubyte_project
-incubyte assessment
+project
+
 Overview:
 This repository contains implementation of given assessment. A dummy database has been created to demonstarte a simple data flow in different formats from server to the local system, using country-based row filteration.
 
